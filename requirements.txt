@@ -1,0 +1,7 @@
+yfinance
+requests
+pandas
+scikit-learn
+elasticsearch
+numpy
+apache-airflow
